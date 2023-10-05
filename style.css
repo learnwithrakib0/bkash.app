@@ -45,3 +45,21 @@
     transition: 0.5s;
     border: 1px solid white;
 }
+
+
+
+.btnOffer{
+    background-color: rgb(226, 19, 110);
+    color: white;
+    text-decoration: none;
+    font-size: 20px; 
+    padding: 10px;
+    border: 1px solid white;
+}
+
+.btnOffer:hover{
+    background-color:white;
+    color: rgb(226, 19, 110);
+    transition: 0.5s;
+    border: 1px solid rgb(226, 19, 110);
+}
